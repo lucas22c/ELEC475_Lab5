@@ -1,0 +1,1 @@
+python train.py -e 10 -b 10 -s "model_save.pth" -p "loss.png"

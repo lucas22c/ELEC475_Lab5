@@ -1,0 +1,5 @@
+British_Shorthair_2.jpg,"(147, 67)"
+beagle_154.jpg,"(109, 76)"
+scottish_terrier_32.jpg,"(96, 108)"
+staffordshire_bull_terrier_171.jpg,"(109, 118)"
+american_bulldog_171.jpg,"(152, 50)"
